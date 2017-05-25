@@ -1,0 +1,75 @@
+h1{
+font-family: sans-serif;
+font-style: italic;
+font-weight: bolder;
+text-align: center;
+font-size: 300%;
+color: white;
+}
+.body{
+background-image: url("../images/cupcake1.jpg");
+background-size: cover;
+height: 100%
+}
+.carol{
+font-size: 400%;
+  text-align:center;
+}
+.nav a{
+  padding: 50px;
+  color: yellow;
+  text-decoration:none;
+}
+
+
+body{
+  background-image:url("../images/wood.jpg");
+  background-size:cover;
+}
+.flashy{
+  color: red;
+  font-style: italic;
+  /*margin-bottom: 50px;*/
+}
+.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 400px;
+}
+
+.gallery:hover {
+    border: 1px solid #777;
+}
+
+.gallery img {
+  width: 400px;
+  height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+    color: yellow;
+    font-weight: bolder;
+}
+.best{
+  font-family: Helvetica;
+  color: white;
+  font-weight: bolder;
+  font-style: oblique;
+  font-size: 100%;
+}
+.about{
+ float:left;
+  width: 500px;
+  height:500px;
+  padding-right: 5px;
+  color: yellow;
+}
+.box{
+  margin:12px;
+  border:2px solid green;
+  padding:30px;
+  color: yellow;
+}
