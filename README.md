@@ -1,4 +1,4 @@
-## cupcake
+## cupcake shop
 ### An awesome website that sells cupcakes
 #### contributors
 * **Caroline Theuri**
@@ -6,3 +6,4 @@
 ##### Tools used
 1. _css_
 2. _html_
+###### GNU GPLv3
